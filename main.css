@@ -1,0 +1,27 @@
+h1{
+    color:red;
+    background-color:#000000;
+  }
+  h2{
+    color:rgb(255,255,255);
+    background-color:hsl(110,100%,41%);
+  }
+  h3{
+    background-color:yellow;
+  }
+  p{
+    color:hsl(306,100%,46%);
+  }
+  ul{
+    background-color:hsl(39,100%,48%);
+  }
+  ol{
+    color:lightgray;
+    background-color:hsl(0,0%,100%);
+  }
+  html{
+    background-color:hsla(303, 85%, 34%, 1);
+  }
+  *{
+    color:#a0600e;
+  }
